@@ -1,19 +1,16 @@
 {
-  "posts": [
+  "notes": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "id": "afd3",
+      "title": "Hello",
+      "content": "Lorem ipsum dolor sit, amet consectetur.\nMollis mi ante viverra eros, luctus neque ornare.\nConsequat massa tortor torquent nisl porttitor, luctus mollis taciti.\nArcu vulputate eros tempus mattis, nisl curabitur duis.\nLibero sociis lacinia ullamcorper non, leo dignissim accumsan.\nIaculis facilisi cubilia velit pharetra, nullam egestas fusce.\nNam blandit euismod hac convallis, facilisi pretium.\nEleifend non nisl aenean turpis, mattis blandit cursus.\nMaecenas hendrerit scelerisque vulputate, netus facilisi.\nCursus nostra euismod maecenas gravida scelerisque, mollis auctor natoque.\nVenenatis penatibus hendrerit mollis class, aptent quis orci.\nCum scelerisque ligula eget fames, malesuada rutrum cubilia.\nLectus faucibus auctor convallis imperdiet himenaeos, tortor luctus curae.\nMorbi varius eu sollicitudin commodo nulla, natoque fames urna.\nClass dictumst tortor diam proin, ornare augue urna.\nFacilisi pellentesque aptent diam euismod, purus mattis per.\nTurpis himenaeos fusce taciti phasellus, consequat laoreet venenatis.\nPharetra primis lobortis penatibus ullamcorper inceptos, nisl himenaeos malesuada.\nPhasellus aenean integer est eget diam, pulvinar taciti ac.\nDapibus vehicula sagittis porttitor nostra parturient metus, aliquet felis id hac.\nSapien bibendum accumsan luctus cursus, malesuada vulputate et.\nFusce integer malesuada turpis, tempor cum purus sed, lacus mauris.\nInterdum litora neque rhoncus nisi, diam suspendisse nostra.\nSenectus egestas parturient donec class mi, pulvinar primis dapibus.\nMolestie commodo cum curabitur nec, vehicula per arcu.\nPlatea phasellus rutrum mi sociosqu himenaeos, ac laoreet lobortis.",
+      "created_at": "1/20/2024"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": "5fd2",
+      "title": "bad news ",
+      "content": "This is bad new for all employees.",
+      "created_at": "1/21/2024"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

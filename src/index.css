@@ -1,4 +1,9 @@
-body{
+#root {
   font-family: Roboto;
   background-color: #F8F9FB;
+  height: 100vh;
+}
+
+.workspace {
+  padding: 50px;
 }
